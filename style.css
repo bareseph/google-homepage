@@ -39,8 +39,7 @@ a:hover, .top-bar {
 }
 
 .top-right {
-    position: relative;
-    top: -24px;
+    margin-top: -24px;
 }
 .top-left {
     margin-top: 20px;
