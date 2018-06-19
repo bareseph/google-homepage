@@ -1,0 +1,64 @@
+.search-box {
+    width: 480px;
+    height: 30px;
+    margin: 10px;
+}
+.btn-search, .btn-lucky {
+    margin: 15px 4px 15px;
+    color: grey;
+}
+.btn-search:hover, .btn-lucky:hover {
+    color: black;
+}
+.logo {
+    height:233px;
+    margin-top:23px
+}
+#apps-logo {
+    height: 21px;
+    opacity: 0.70;
+    margin-right: 12px;
+    top: 6px;
+    position: relative;
+}
+a, button {
+    font-family: Arial;
+}
+.top-bar {
+    font-size: 12px;
+    margin-top: 23px;
+    text-decoration: none;
+}
+a, .top-bar {
+    padding-left: 15px;
+    color: black;
+    
+}
+a:hover, .top-bar {
+    color: #353535;
+}
+
+.top-right {
+    position: relative;
+    top: -24px;
+}
+.top-left {
+    margin-top: 20px;
+    margin-left: -8px;
+}
+.btn-signin {
+    margin-right: 20px;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+button {
+    font-size: 12px;
+    font-weight: 700;
+}
